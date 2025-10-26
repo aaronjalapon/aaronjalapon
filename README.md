@@ -58,15 +58,6 @@ An AI-assisted **agritech app** that helps farmers forecast **crop prices, plant
 * I write code with long-term maintainability in mind and document as I go.
 * I collaborate through PRs, reviews, and open discussions to keep learning and improving.
 
----
-
-## 📂 Repository Structure (suggested)
-
-```
-/projects   — project source codes and experiments  
-/notes      — personal tech notes and learning materials  
-/website    — portfolio and profile website  
-```
 
 ---
 
