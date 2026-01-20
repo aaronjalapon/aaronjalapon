@@ -78,9 +78,9 @@ I’m a **Computer Science student**, **software developer**, and **entrepreneur
 ## 📫 Connect with Me
 
 * 🌐 GitHub: [@aaronjalapon](https://github.com/aaronjalapon)
-* 💼 LinkedIn: [linkedin.com/in/aaronjalapon](https://linkedin.com/in/aaronjalapon)
+* 💼 LinkedIn: [linkedin.com/in/aaronjalapon](https://www.linkedin.com/in/aaron-jalapon-5aba74290/)
 * ✉️ Email: [aaronjalapon@gmail.com](mailto:aaronjalapon@gmail.com)
-* 🗂️ Portfolio: http://aaron-jalapon.vercel.app/
+* 🗂️ Portfolio: [aaron-jalapon.vercel.app](http://aaron-jalapon.vercel.app/)
 * 🧠 Updates coming soon!
 
 ---
