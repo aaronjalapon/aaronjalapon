@@ -1,88 +1,44 @@
-# 👋 Hi, I'm Aaron Jalapon (@aaronjalapon)
+# Hi, I'm Aaron Jalapon Arquillano
 
-I’m a **Computer Science student**, **software developer**, and **entrepreneur** passionate about creating solutions that make technology more human and purposeful. I enjoy building clean, scalable, and meaningful software — from productivity tools to AI-powered platforms — while continuously learning and exploring new technologies.
+**Software developer building web applications and practical AI systems.**
 
----
+I'm a BS Computer Science student at the University of Mindanao in Davao City, Philippines. My work focuses on Python/FastAPI backends, React/Next.js interfaces, SQL databases, and applied machine learning.
 
-## 🚀 About Me
+[Portfolio](https://www.aaronarquillano.tech/) · [LinkedIn](https://www.linkedin.com/in/aaron-jalapon-5aba74290/) · [Email](mailto:aaronjalapon@gmail.com)
 
-* 🎓 **BS Computer Science student** at the **University of Mindanao**
-* 💡 **Startup Builder** — founder of projects like **GoalBuddy** (a productivity app) and **RealiTech** (a proptech ecosystem for real estate innovation)
-* 🤖 Passionate about **Data Science**, **Software Engineering**, and **Machine Learning**
-* 💼 Former small business owner — gained early entrepreneurial experience managing online selling and a food stand business
+## Selected projects
 
----
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [IQueue](https://github.com/aaronjalapon/um-siklab-iqueue) | Bus boarding prototype with passenger/operator flows, seat recommendations, demand forecasting, and signed QR passes. My contributions include seat allocation APIs, booking integration, passenger seat selection, and regression tests. | FastAPI, Next.js, PostgreSQL |
+| [podcastman](https://github.com/aaronjalapon/podcastman) | Blog-to-podcast MVP with content ingestion, retrieval, a multi-agent script pipeline, and two-voice text-to-speech. I implemented pipeline stages, API/UI integration, tests, and a Cloud Run deployment path. | Python, FastAPI, Streamlit, LangGraph, ChromaDB |
+| [TanUM](https://github.com/aaronjalapon/TanUM_NanoTechSolutions) | Soil-monitoring and fertilizer-recommendation project. My broader project work covers ingestion, data processing, APIs, and dashboards; this public repository contains the dashboard and recommendation prototype. | React, Vite, FastAPI, scikit-learn |
+| [Store POS](https://github.com/aaronjalapon/store-pos) | An offline-first sari-sari store POS with checkout, inventory, customer credit (utang), reports, and encrypted cloud backups. | Next.js, TypeScript, Dexie, NestJS, PostgreSQL |
 
-## 🧠 Core Skills & Interests  
+**Project status:** IQueue is a hackathon prototype using synthetic operational data. podcastman is an MVP with deployment scripts. TanUM is an active pilot; fertilizer savings and yield improvements remain targets pending broader validation. Store POS is a course project.
 
-### 🧰 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
+More work: [Banana Grading case study](https://www.aaronarquillano.tech/projects/banana-grading-system) · [Mindspace case study](https://www.aaronarquillano.tech/projects/mindspace)
 
----
+## Experience
 
-### ⚙️ Frameworks & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+**Software Development Intern — Advanced Infinit Technology Solutions**  
+July–August 2026
 
----
+- Implemented web messaging features and improved database-backed dashboards and client workflows.
+- Performed functional testing, debugging, and bug documentation.
+- Prepared user manuals to support handover and use.
 
-### 💡 Special Interests  
-<p align="center">
-  🚀 AI-driven systems &nbsp; | &nbsp;
-  📱 Productivity tech &nbsp; | &nbsp;
-  🏠 PropTech & Real Estate Innovation &nbsp; | &nbsp;
-  🌾 AgriTech & Smart Farming &nbsp; | &nbsp;
-  🧩 Open-source contribution &nbsp; | &nbsp;
-  ⚙️ Workflow automation &nbsp; | &nbsp;
-  📚 Self-development & continuous learning
-</p>
+## Core tools
 
----
+- **Backend & data:** Python, FastAPI, SQL, PostgreSQL, MySQL
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **AI/ML:** PyTorch, scikit-learn, Pandas, LangGraph, ChromaDB, Streamlit
+- **Development:** Git, Docker, pytest, GitHub Actions
 
-## ⚙️ How I Work
+## Education & certifications
 
-* I value **clarity, consistency, and scalability** in both code and design.
-* I follow an **iterative, agile approach** — shipping small, meaningful updates frequently.
-* I write code with long-term maintainability in mind and document as I go.
-* I collaborate through PRs, reviews, and open discussions to keep learning and improving.
+- **BS Computer Science**, University of Mindanao — in progress, 2023–present
+- Certiport **IT Specialist – Java**
+- Certiport **IT Specialist – Databases**
 
-
----
-
-## 📫 Connect with Me
-
-* 🌐 GitHub: [@aaronjalapon](https://github.com/aaronjalapon)
-* 💼 LinkedIn: [linkedin.com/in/aaronjalapon](https://www.linkedin.com/in/aaron-jalapon-5aba74290/)
-* ✉️ Email: [aaronjalapon@gmail.com](mailto:aaronjalapon@gmail.com)
-* 🗂️ Portfolio: [www.aaronarquillano.tech](http://www.aaronarquillano.tech/)
-* 🧠 Updates coming soon!
-
----
-
-> “Discipline and confidence are my foundation — but learning from mistakes keeps me growing.”
+I'm interested in remote software development opportunities, particularly backend, full-stack, and applied AI work.
