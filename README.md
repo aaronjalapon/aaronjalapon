@@ -17,7 +17,7 @@ I'm a BS Computer Science student at the University of Mindanao in Davao City, P
 
 **Project status:** IQueue is a hackathon prototype using synthetic operational data. podcastman is an MVP with deployment scripts. TanUM is an active pilot; fertilizer savings and yield improvements remain targets pending broader validation. Store POS is a course project.
 
-More work: [Banana Grading case study](https://www.aaronarquillano.tech/projects/banana-grading-system) · [Mindspace case study](https://www.aaronarquillano.tech/projects/mindspace)
+More work: [Banana Grading source & evaluation](https://github.com/aaronjalapon/banana-grading) ([case study](https://www.aaronarquillano.tech/projects/banana-grading-system)) · [Mindspace case study](https://www.aaronarquillano.tech/projects/mindspace)
 
 ## Experience
 
